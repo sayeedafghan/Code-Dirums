@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Code-Dirums/static/css/main.84ebca4b.css",
+    "main.js": "/Code-Dirums/static/js/main.50da42a8.js",
+    "index.html": "/Code-Dirums/index.html",
+    "main.84ebca4b.css.map": "/Code-Dirums/static/css/main.84ebca4b.css.map",
+    "main.50da42a8.js.map": "/Code-Dirums/static/js/main.50da42a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ebca4b.css",
+    "static/js/main.50da42a8.js"
+  ]
+}
